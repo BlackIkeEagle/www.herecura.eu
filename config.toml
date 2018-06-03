@@ -1,3 +1,103 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-US"
+title = "Ike Devolder 'BlackIkeEagle'"
+theme = "split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy; BlackIkeEagle"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "BlackIkeEagle"
+  description = "Who is BlackIkeEagle"
+  #shareImage = "images/social.jpg"
+  #twitterHandle = "BlackIkeEagle"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.png"
+      position = "center center"
+
+  # Tech
+  [[params.links]]
+    [params.links.list1]
+      heading = "Tech"
+
+      [[params.links.list1.link]]
+        text = "Blog"
+        url = "https://blog.herecura.eu"
+
+      [[params.links.list1.link]]
+        text = "Github"
+        url = "https://github.com/BlackIkeEagle"
+
+      [[params.links.list1.link]]
+        text = "Archlinux repo"
+        url = "https://repo.herecura.eu"
+
+  # Communities
+  [[params.links]]
+    [params.links.list2]
+      heading = "Communities"
+
+      [[params.links.list2.link]]
+        text = "PHP-WVL"
+        url = "http://php-wvl.be"
+
+      [[params.links.list2.link]]
+        text = "Dockerwest"
+        url = "https://dockerwest.github.io"
+
+      [[params.links.list2.link]]
+        text = "Vdebug"
+        url = "https://github.com/vim-vdebug/"
+
+      [[params.links.list2.link]]
+        text = "Par2"
+        url = "https://github.com/parchive/"
+
+      [[params.links.list2.link]]
+        text = "Archlinux"
+        url = "https://www.archlinux.org"
+
+  # Speaking
+  [[params.links]]
+    [params.links.list3]
+      heading = "Speaking"
+
+      [[params.links.list3.link]]
+        text = "Talks"
+        url = "https://blog.herecura.eu/talk/"
+
+      [[params.links.list3.link]]
+        text = "Joind.in"
+        url = "https://joind.in/user/BlackIkeEagle"
+
+  # Social profiles
+  [[params.links]]
+    [params.links.list4]
+      heading = "Social"
+
+      [[params.links.list4.link]]
+        text = "Twitter"
+        url = "https://twitter.com/BlackIkeEagle"
+
+      [[params.links.list4.link]]
+        text = "Google+"
+        url = "https://plus.google.com/+IkeDevolder"
+
+      [[params.links.list4.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/ikedevolder"
+
