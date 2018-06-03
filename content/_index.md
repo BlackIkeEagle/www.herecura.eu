@@ -3,7 +3,7 @@ title: "Ike Devolder 'BlackIkeEagle'"
 tagline: "Husband. Father. Metalhead. Developer. Operations."
 ---
 
-I'm a developer at a e-commerce agency in Belgium, [Studio Emma](https://www.studioemma.com). My main goal is automating tedious repetitive things. Focussed on improving our delivery and quality, leveraging existing or new technology to accomplisch that goal. Developing mostly in PHP, Python and shell scripting to accomplish that. Sometimes I also act as resident git manual.
+I'm a developer at an e-commerce agency in Belgium, [Studio Emma](https://www.studioemma.com). My main goal is automating tedious repetitive things. Focussed on improving our delivery and quality, leveraging existing or new technology to accomplisch that goal. Developing mostly in PHP, Python and shell scripting to accomplish that. Sometimes I also act as resident git manual.
 
 Giving training and doing public speaking brings me pleasure, especially if that triggers a nice discussion where we can leverage each others expertise. I like to think I can help you improve and you can help me improve!
 
