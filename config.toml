@@ -84,6 +84,10 @@ copyright = "&copy; BlackIkeEagle"
         text = "Joind.in"
         url = "https://joind.in/user/BlackIkeEagle"
 
+      [[params.links.list3.link]]
+        text = "Speaker bio"
+        url = "/speaker-bio"
+
   # Social profiles
   [[params.links]]
     [params.links.list4]
