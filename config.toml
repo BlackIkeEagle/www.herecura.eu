@@ -47,14 +47,10 @@ copyright = "&copy; BlackIkeEagle"
         text = "Archlinux repo"
         url = "https://repo.herecura.eu"
 
-  # Communities
+  # Projects
   [[params.links]]
     [params.links.list2]
-      heading = "Communities"
-
-      [[params.links.list2.link]]
-        text = "PHP-WVL"
-        url = "http://php-wvl.be"
+      heading = "Projects"
 
       [[params.links.list2.link]]
         text = "Dockerwest"
@@ -67,10 +63,6 @@ copyright = "&copy; BlackIkeEagle"
       [[params.links.list2.link]]
         text = "Par2"
         url = "https://github.com/parchive/"
-
-      [[params.links.list2.link]]
-        text = "Archlinux"
-        url = "https://www.archlinux.org"
 
   # Speaking
   [[params.links]]
@@ -106,3 +98,23 @@ copyright = "&copy; BlackIkeEagle"
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/ikedevolder"
 
+  # Communities
+  [[params.links]]
+    [params.links.list5]
+      heading = "Community"
+
+      [[params.links.list5.link]]
+        text = "PHP-WVL"
+        url = "http://php-wvl.be"
+
+      [[params.links.list5.link]]
+        text = "Archlinux"
+        url = "https://www.archlinux.org"
+
+      [[params.links.list5.link]]
+        text = "Vivaldi soprano"
+        url = "https://vivaldi.com"
+
+      [[params.links.list5.link]]
+        text = "Opera volunteer"
+        url = "https://www.opera.com"
