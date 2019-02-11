@@ -7,6 +7,6 @@ I'm a developer at an e-commerce agency in Belgium, [Studio Emma](https://www.st
 
 Giving training and doing public speaking brings me pleasure, especially if that triggers a nice discussion where we can leverage each others expertise. I like to think I can help you improve and you can help me improve!
 
-I spend a part of my free time in Open Source development and packaging some great tools for Archlinux. Additionally I'm also involved in the organization of our local PHP usergroup PHP-WVL.
+I spend a part of my free time in Open Source development and packaging some great tools for Arch Linux. Additionally I'm also involved in the organization of our local PHP usergroup PHP-WVL.
 
 Balancing all of this with family is the greatest challenge. But that is also the most rewarding one :).

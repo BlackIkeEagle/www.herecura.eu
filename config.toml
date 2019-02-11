@@ -44,7 +44,7 @@ copyright = "&copy; BlackIkeEagle"
         url = "https://github.com/BlackIkeEagle"
 
       [[params.links.list1.link]]
-        text = "Archlinux repo"
+        text = "Herecura Arch Linux repo"
         url = "https://repo.herecura.eu"
 
   # Projects
@@ -108,7 +108,7 @@ copyright = "&copy; BlackIkeEagle"
         url = "http://php-wvl.be"
 
       [[params.links.list5.link]]
-        text = "Archlinux"
+        text = "Arch Linux"
         url = "https://www.archlinux.org"
 
       [[params.links.list5.link]]
