@@ -91,12 +91,16 @@ copyright = "&copy; BlackIkeEagle"
         url = "https://twitter.com/BlackIkeEagle"
 
       [[params.links.list4.link]]
-        text = "Google+"
-        url = "https://plus.google.com/+IkeDevolder"
+        text = "Mastodon"
+        url = "https://mastodon.pirateparty.be/@BlackIkeEagle"
 
       [[params.links.list4.link]]
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/ikedevolder"
+
+      [[params.links.list4.link]]
+        text = "Keybase.io"
+        url = "https://keybase.io/blackikeeagle"
 
   # Communities
   [[params.links]]
