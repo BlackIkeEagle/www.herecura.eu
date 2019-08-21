@@ -27,7 +27,7 @@ copyright = "&copy; BlackIkeEagle"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.png"
+      file = "images/background.webp"
       position = "center center"
 
   # Tech
