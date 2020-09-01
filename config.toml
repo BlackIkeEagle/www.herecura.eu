@@ -44,6 +44,10 @@ copyright = "&copy; BlackIkeEagle"
         url = "https://github.com/BlackIkeEagle"
 
       [[params.links.list1.link]]
+        text = "Gitlab"
+        url = "https://gitlab.com/BlackIkeEagle"
+
+      [[params.links.list1.link]]
         text = "Herecura Arch Linux repo"
         url = "https://repo.herecura.eu"
 
