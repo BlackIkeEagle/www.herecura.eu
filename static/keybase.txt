@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/blackikeeagle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.herecura.eu
+  * I am blackikeeagle (https://keybase.io/blackikeeagle) on keybase.
+  * I have a public key with fingerprint DB22 77BC D500 AA38 2561  0BDD DB32 3392 796C A067
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "db2277bcd500aa3825610bdddb323392796ca067",
+            "host": "keybase.io",
+            "key_id": "db323392796ca067",
+            "uid": "1a4708a6e4c32d28bc1fc44c7c7dcc00",
+            "username": "blackikeeagle"
+        },
+        "service": {
+            "hostname": "www.herecura.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418421385,
+    "expire_in": 157680000,
+    "prev": "060abc8d6a2bd36b30faa1f53ea7a417c788d50e9ec48b16aa92213ef26ca9a5",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGbwMvMwMF428h4UmXOgnTG0wd+JzGEdKdMrlZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSilJRkbm5knJKaYGBomJxhZGpmaGBkkpKSlJxkbGxpZG5pZmyYkGZuZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgrYHAz1pWAJw0QTcwOLRLNUk2RjoxQji6Rk
+w7RkE5Nk82TzlORkAwOQwuLUorzE3FSg6qScxOTszOzU1MT0nFSlWh0loFRZZnIq
+yOEg+6HKysvL9TJSi1KTS4sS9VJLgWYUFOWX5Cfn5wAlM0pKCqxAeksqC8CKU5Pi
+ocbEJ2XmpQD9D9RQllpUnJmfp2RlCFSZXJIJMtfQxNDCxMjQ2MJURym1oiCzKDU+
+E6TC1NzMwgAIQNaklgGNNDAzSExKtkgxSzRKSjE2SzI2SEtMNEwzNU5NNE80MQT6
+zcICGKKplqnJJhZJhmaJiZZGQHNT04yAoWOZaKoE8lhhXj7QbEOgOxPTgWYWZ6bn
+JZaUFgG9zdXJJMPCwMjBwMbKBIpDBi5OAVjM/tHi/6dQfrKYOWvepOcz1z5qCvrU
+E3Kz+DPz6bX/dge7p9U7ap7+GPEo9Hv7XB+P0yv6/oTL/dVl7V7ztzHS9FJTa+SS
+xi+dR+rOedz89u29msmb/9ILphRcMenbdF1Ywuf03JmPghcU/Ars+Xl9cgr/Jtnr
+nX8+zVquXRJRJGoQLJH419jqtork36mZc4SELjn0WN/+1ZbxeJuM4Rn72BVzn15e
+IHQ9XVFX7YbtfUZ9J/0Zq8q0/NJPz3evOGT2OdjM5K9Iq9+d+q11TuF6UldiZ3ZW
+G8n+tDgkdOG7vuidj1OjVmVW1qklf6vevutHYYSD6tZvnHbOy3fWti5duu1LVvsh
+/mR1zdhVji4GD7aI5PN+1c1cVnRt+xZ7ZWETK5ZonpdZQhELBOe7MWwO+SyVo7Hz
+U+aXX4xrN9wXOmepFWcxY7d8n/TKJA73eW3bo+Tj5ric+P/X5sO0gI6qmXfnRd12
+9Ui07j5zXLwzKL3h/YJjU2z/tFqpKRpmrgtXjvj56cb7opk1j9Z0vnxa8tc9nGtF
+pVtx9XxNNjm3aQezmVb0XXvcMSFBssuL2zAqs1nlwE3OWpNCjsYVvMzGySxhOTHq
+Sd1v6tSL+kXzlI9M15vE/iFoy52jLP6CSXf1cvqK1r3gP7mufeZm9RdnxT/cUryx
+PqdF/HHfxuhyn+4toVuiM2JThP9/3u4kLilwjPllTJpO/iaG44ozNugCAA==
+=Ek/Z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blackikeeagle
+
+==================================================================
+
