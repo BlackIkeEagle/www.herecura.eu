@@ -2,5 +2,5 @@
 
 hugo
 find public -type f -exec chmod u=rw,og=r {} \;
-rsync -av public/ web.herecura.eu:/data/herecura-www/data/
+rsync -av public/ web.herecura.eu:/srv/herecura-web/
 rm -rf public
