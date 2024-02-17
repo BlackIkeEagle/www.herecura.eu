@@ -122,7 +122,3 @@ copyright = "&copy; BlackIkeEagle"
       [[params.links.list5.link]]
         text = "Vivaldi soprano"
         url = "https://vivaldi.com"
-
-      [[params.links.list5.link]]
-        text = "Opera volunteer"
-        url = "https://www.opera.com"
