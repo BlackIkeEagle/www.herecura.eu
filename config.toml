@@ -91,10 +91,6 @@ copyright = "&copy; BlackIkeEagle"
       heading = "Social"
 
       [[params.links.list4.link]]
-        text = "Twitter"
-        url = "https://twitter.com/BlackIkeEagle"
-
-      [[params.links.list4.link]]
         text = "Mastodon"
         url = "https://mastodon.pirateparty.be/@BlackIkeEagle"
 
